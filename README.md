@@ -1,2 +1,2 @@
 # .github
-Defaults for Community Health
+Defaults for all our repositories.
